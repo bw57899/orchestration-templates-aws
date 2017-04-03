@@ -1,0 +1,3 @@
+{
+  "cmd": "cd terraform; terraform plan -var-file=np.tfvars -out=./plan"
+}
